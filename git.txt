@@ -2,3 +2,5 @@ git を学んでいく
 A
 B
 C
+/ git add
+/ git commit
